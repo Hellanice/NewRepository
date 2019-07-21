@@ -6,14 +6,21 @@
 body {background-image:url(https://www.koreaboo.com/wp-content/uploads/2017/05/EunJiWon-SECHSKIES6.jpg)
 </style>
 <tittle>
-<h1>
 <center>
-<font face="verdana" size="30" color="Red">
-Señor Eun Jiwon
-</center>
-</h1>
+<font face="Times New Roman" size="10" color="yellow">
+<strong>Señor Eun Jiwon</strong></font></center>
 </tittle>
 <Body>
-<p1> <font face ="Times New Roman" color= "white" size="14">This is the most magnificent person to ever exsist </p1>
-</Body>
+<p1> <font face ="Times New Roman" color= "white" size="9"><center>This is the most magnificent person to ever exsist</center>  
+<center>Stream im on fire 불나방</center></font> </p1>
+</body>
+<br/>
+<center>
+<audio controls>
+  <source src="couplemusicbox.mp3" type="audio/mpeg">
+</audio>
+</center>
+<br/>
+</head>
+</body>
 </html>
