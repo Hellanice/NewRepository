@@ -1,9 +1,8 @@
-
-<!DOCTYPE HTML> 
+<!DOCTYPE HTML>
 <html>
-<head> 
+<head>
 <style>
-body {background-image:url(https://www.koreaboo.com/wp-content/uploads/2017/05/EunJiWon-SECHSKIES6.jpg)
+body {background-image:url(https://www.koreaboo.com/wp-content/uploads/2017/05/EunJiWon-SECHSKIES6.jpg)}
 </style>
 <tittle>
 <center>
@@ -11,16 +10,15 @@ body {background-image:url(https://www.koreaboo.com/wp-content/uploads/2017/05/E
 <strong>Señor Eun Jiwon</strong></font></center>
 </tittle>
 <Body>
-<p1> <font face ="Times New Roman" color= "white" size="9"><center>This is the most magnificent person to ever exsist</center>  
+<p1> <font face ="Times New Roman" color= "white" size="9"><center>This is <strong>the most</strong> magnificent person to ever exsist</center>
 <center>Stream im on fire 불나방</center></font> </p1>
 </body>
-<br/>
+<br/>\
 <center>
-<audio controls>
-  <source src="couplemusicbox.mp3" type="audio/mpeg">
-</audio>
+<Audio width="620" height="320" controls autoplay loop>
+    <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+</Audio>
 </center>
-<br/>
 </head>
-</body>
 </html>
