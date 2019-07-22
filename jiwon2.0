@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+body {background-image:url(../Pictures/SECHSKIES/G1.jpg)}
+</style>
+<tittle>
+<center>
+<font face="Times New Roman" size="10" color="yellow">
+<strong>Señor Eun Jiwon</strong></font></center>
+</tittle>
+<Body>
+<p1> <font face ="Times New Roman" color= "white" size="9"><center>This is <strong>the most</strong> magnificent person to ever exsist</center>
+<center>Stream im on fire 불나방</center></font> </p1>
+</body>
+<br/>
+<center>
+<audio controls autoplay loop>
+    <source src="../Downloads/G1.mp3" type="audio/mpeg">
+    Your browser does not support the audio tag.
+</audio>
+</center>
+<center>
+<picture>
+    <source media="(min-width: 650px)" srcset="../Pictures/SECHSKIES/01_eunjiwon_01_10-4.jpg">
+    <img src="../Pictures/SECHSKIES/01_eunjiwon_01_10-4.jpg" width="235" height="369" alt="jiwon" style="width:auto;">
+</picture>
+</center>
+</head>
+</html>
