@@ -1,30 +1,43 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<style>
-body {background-image:url(../Pictures/SECHSKIES/G1.jpg)}
-</style>
-<tittle>
-<center>
-<font face="Times New Roman" size="10" color="yellow">
-<strong>Señor Eun Jiwon</strong></font></center>
-</tittle>
+    <style>
+    body {background-image:url(../Pictures/SECHSKIES/G1.jpg)}
+    </style>
+    <tittle>
+    <center>
+    <p><font face="Arial Black" size="30" color="red">
+    <strong>Señor Eun Jiwon</strong></font></p></center>
+    </tittle></head>
 <Body>
-<p1> <font face ="Times New Roman" color= "white" size="9"><center>This is <strong>the most</strong> magnificent person to ever exsist</center>
-<center>Stream im on fire 불나방</center></font> </p1>
-</body>
+    <p> <font face ="Times New Roman" color= "red" size="5"><center>This is <strong>the most</strong> magnificent person to ever exsist</center>
+    <center>Stream im on fire 불나방</center></font> </p>
 <br/>
 <center>
-<audio controls autoplay loop>
-    <source src="../Downloads/G1.mp3" type="audio/mpeg">
-    Your browser does not support the audio tag.
-</audio>
-</center>
+    <audio controls loop>
+    <source src="../Downloads/G1.wav" type="audio/wav">
+        Your browser does not support the audio tag.
+    </audio>
+        <figure>
+        <img src="../Pictures/SECHSKIES/01_eunjiwon_01_10-4.jpg" alt="jiwon" style="width:50%">
+        <figcaption><font color="red"><strong>Eun Jiwon,Leader of Sechskies(1997),Born in 1978 July 13</strong></font></figcaption>
+        </figure>
+    </center>
 <center>
-<picture>
-    <source media="(min-width: 650px)" srcset="../Pictures/SECHSKIES/01_eunjiwon_01_10-4.jpg">
-    <img src="../Pictures/SECHSKIES/01_eunjiwon_01_10-4.jpg" width="235" height="369" alt="jiwon" style="width:auto;">
-</picture>
+    <p><font face="times new roman" size="5" color="red">
+    <br/>Hello People, Stan Sechskies, Stan Eun Jiwon <br/>Subscribe to his channel <a href="https://www.youtube.com/channel/UC9iXc6HmaGygDiTj5OaNqNg">G-Zone</a><br />
+    do it or you die</font></p>
+    <br/>
+        <picture>
+        <source media="(min/width: 420px)" srcset:"../pictures/SECHSKIES/01176d83fcfcb1ad27268552b717e18.gif">
+        <img src="../Pictures/SECHSKIES/01176d83fcfcb1ad27268552b717e18c.gif" width="450" height="450" alt="">
+        </picture>
+    </center>
+<center>
+    <video width="620" height="320" controls>
+    <source src="../desktop/gisado.ogg" type="video/ogg"
+    Your browser does not support the video tag
+    </video>
 </center>
-</head>
+</body>
 </html>
